@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Tomás' Experiments"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/tomasff
+      - icon: twitter
+        href: https://twitter.com/tomasff02
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

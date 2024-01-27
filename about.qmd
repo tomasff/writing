@@ -1,0 +1,21 @@
+---
+title: "About"
+image: profile.jpeg
+about:
+  template: solana
+  image-shape: round
+  links:
+    - icon: envelope-at-fill
+      text: Email
+      href: mailto:contact@tomff.com
+    - icon: twitter-x
+      text: Twitter
+      href: https://twitter.com/tomasff02
+    - icon: github
+      text: Github
+      href: https://github.com/tomasff
+
+---
+
+I’m a computer scientist at the University of Warwick particularly interested in distributed systems and multi-modal machine learning (e.g. Perceiver). More recently, I’ve also developed an interest in machine learning on graphs, and time-series & graph databases.
+
